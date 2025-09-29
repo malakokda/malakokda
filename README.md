@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Malak Okda an Undergraduate Computer and Communication Engineering student at Alexandria National University
+I am Malak Okda an Undergraduate Computer and Communication Engineering student at Alexandria National University and expertise in C#, Microsoft SQL, HTML, CSS, PHP, Java script, .NET framework, C, Java, OOP, and logic circuits.
 
 <!--
 **malakokda/malakokda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
